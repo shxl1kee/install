@@ -1,0 +1,3 @@
+pkg update && pkg upgrade && pkg install openssh python python2 wget git apache2 nginx php php-apache curl nodejs libqrencode mpg123 mplayer -y
+
+
